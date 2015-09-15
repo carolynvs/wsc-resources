@@ -1,7 +1,7 @@
 # Write/Speak/Code Event Venue Needs
 
 ## We are looking for a 2016 Conference venue!
-We are currently looking for a venue for our **[2016 conference](#conference)** in **Chicago** in **June/early summer 2016**.  Email [info@writespeakcode.com](mailto:info@writespeakcode.com) if you have leads or intros!
+We are currently looking for a venue for our **3 day [2016 conference](#conference)** in **Chicago** in **June/early summer 2016**.  Email [info@writespeakcode.com](mailto:info@writespeakcode.com) if you have leads or intros!
 
 ### General
 
