@@ -1,6 +1,7 @@
-# Write/Speak/Code Conference Venue Needs
+# Write/Speak/Code Event Venue Needs
 
-We are currently looking for a venue for our **2016 conference** in **Chicago** in **June/early summer 2016**.  Email [info@writespeakcode.com](mailto:info@writespeakcode.com) if you have leads or intros!
+## We are looking for a 2016 Conference venue!
+We are currently looking for a venue for our **[2016 conference](#conference)** in **Chicago** in **June/early summer 2016**.  Email [info@writespeakcode.com](mailto:info@writespeakcode.com) if you have leads or intros!
 
 ### General
 
@@ -12,15 +13,15 @@ We are currently looking for a venue for our **2016 conference** in **Chicago** 
 - [Nursing Room](#nursing-room)
 - Multiple women, mixed-gender, or single occupancy bathrooms; at least one on floor with main and breakout rooms
 - ADA compliant facilitaties
-- Approved catering with multiple vegan and gluten-free options
+- Multiple vegan and gluten-free food options with approved caterers
 
 ### Conference
 
 - 150-200 people, including attendees, organizers, volunteers, speakers, and mentors
 - 3 days, preferably Thurs, Fri, & Sat
-- Thurs: need most flexibility to move around (get into groups) within the same room
-- Fri: need break out rooms
-- Sat: wifi and outlets most important
+- Day 1: need most flexibility to move around (get into groups) within the same room
+- Day 2: need break out rooms
+- Day 3: wifi and outlets most important
 - Cost: low or no cost
 - Accessible from airports, public transit and commuter trains/Amtrak
 - Nearby hotels (within walking distance)
