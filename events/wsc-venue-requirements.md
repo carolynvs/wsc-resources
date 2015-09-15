@@ -20,6 +20,7 @@
 - Fri: need break out rooms
 - Sat: wifi and outlets most important
 - Cost: low or no cost
+- Easily accessible from airports, public transit and commuter trains/Amtrak
 
 ### Main room
 
