@@ -23,10 +23,9 @@ We are currently looking for a venue for our **3 day [2016 conference](#conferen
 - [AV for all rooms](#av)
 - [Area for children](#children)
 - [Nursing Room](#nursing-room)
+- [Catering/Food](#food)
 - Multiple women, mixed-gender, or single occupancy bathrooms; at least one on floor with main and breakout rooms
 - ADA compliant facilitaties
-- Multiple vegan and gluten-free food options with approved caterers
-
 
 
 ### Main room
@@ -74,6 +73,7 @@ We offer childcare at our longer events.  Usually there are 0-2 children present
 - Area for drinks near [main room](#main-room)
 - Area for snacks near [main room](#main-room)
 - Area for breakfast and lunch
+- Multiple vegan and gluten-free food options with approved caterers
 
 
   
