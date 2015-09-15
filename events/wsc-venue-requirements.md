@@ -10,14 +10,16 @@
 - [Nursing Room](#nursing-room)
 - Multiple women, mixed-gender, or single occupancy bathrooms; at least one on floor with main and breakout rooms
 - ADA compliant facilitaties
+- Approved catering with multiple vegan and gluten-free options
 
 ### Conference
 
 - 150-200 people, including attendees, organizers, volunteers, speakers, and mentors
-- 3 days, preferable Thurs, Fri, & Sat
+- 3 days, preferably Thurs, Fri, & Sat
 - Thurs: need most flexibility to move around (get into groups) within the same room
 - Fri: need break out rooms
 - Sat: wifi and outlets most important
+- Cost: low or no cost
 
 ### Main room
 
