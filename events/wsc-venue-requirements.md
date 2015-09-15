@@ -30,23 +30,24 @@ We are currently looking for a venue for our **3 day [2016 conference](#conferen
 
 ### Main room
 
-- Conference: holds up to 150 people
-- Workshops: up to 50 people
 - Room with moveable tables preferred; lecture room ok
 - Outlets
 - [AV](#av)
+- Conference: holds up to 150 people
+- Workshops: up to 50 people
+
 
 ### Break-out rooms
 
 - 5 to 30 people
-- Conference: 5+ 
-- Workshop: 3
 - Outlets
 - [AV](#av)
+- Conference: 5+ 
+- Workshop: 3
 
 ### AV
 
-- screen for laptop hook up
+- screen/projector
 - hook up for laptops
 - microphone
 
