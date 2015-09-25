@@ -15,6 +15,13 @@ We are currently looking for a venue for our **3 day [2016 conference](#conferen
 - Nearby hotels (within walking distance)
 - More [details](#general) below!
 
+### Benefits to you!
+
+- Listed on website as "Event Host"
+- Logo on website, signs, slides, and emails
+- Multiple mentions in social media
+- Discount on tickets for students, faculty, and staff
+
 ### General
 
 - [Main Room](#main-room)
