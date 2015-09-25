@@ -29,7 +29,7 @@ We are currently looking for a venue for our **3 day [2016 conference](#conferen
 - [Wifi](#wifi)
 - [AV for all rooms](#av)
 - [Area for children](#children)
-- [Nursing Room](#nursing-room)
+- [Nursing/Pumping Room](#nursing-room)
 - [Catering/Food](#food)
 - Multiple women, mixed-gender, or single occupancy bathrooms; at least one on floor with main and breakout rooms
 - ADA compliant facilitaties
@@ -51,6 +51,7 @@ We are currently looking for a venue for our **3 day [2016 conference](#conferen
 - [AV](#av)
 - Conference: 5+ 
 - Workshop: 3
+- ADA accessible distance from main room (elevators, short walk, etc - can be on different floor)
 
 ### AV
 
@@ -69,8 +70,10 @@ We offer childcare at our longer events.  Usually there are 0-2 children present
 - Area for supervised play area; on same floor as main room preferred
 - Children allowed on premises
 
-### Nursing Room
+### Nursing/Pumping Room
+We want to ensure our events are accessible to women who are still breast feeding. 
 
+- Private room
 - Door with lock
 - Opaque door (not glass)
 - comfortable chair
