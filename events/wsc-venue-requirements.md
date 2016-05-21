@@ -3,6 +3,21 @@
 ## We are looking for a 2017 Conference venue!
 We are currently looking for a venue for our **4 day [2017 conference](#conference)** in **West Coast USA** in **June/early summer 2017**.  Email [info@writespeakcode.com](mailto:info@writespeakcode.com) if you have leads or intros!
 
+## About Write/Speak/Code 
+
+- [our website](http://writespeakcode.com)
+- Info about previous conferences: [2016](http://2016.writespeakcode.com), [2015](http://2015.writespeakcode.com), [2013](http://writespeakcode.com/2013)
+
+*Write/Speak/Code is increasing the visibility and leadership of women coders, engineers, software developers, designers, and data scientists across the world.  We offer conference and events as well as local meetups in New York, Chicago, and San Franscisco.*
+
+*Our annual conference is focused on tangible skills and community support.  Attendees will write a blog post, give a talk, and contribute to open source.*
+
+*In 2016, we added an Alumna track focused on Leadership and Self-Care with focused time and mentorship on a personal project.*
+
+*In 2016, we introduced a 4th day: Self-Care &amp; Career Day, focused on topics such as: balancing career and motherhood, salary negotiation, posture and physical health, and emotional labor.*
+
+Write/Speak/Code is a non-profit organization registered in the state of IL.  We are in the process of getting 501c3 status.
+
 ### Conference
 
 - 150-200 people, including attendees, organizers, volunteers, speakers, and mentors
