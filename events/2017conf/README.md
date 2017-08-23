@@ -2,3 +2,4 @@
 
 * [Code of Conduct, Working Agreement, & Feedback
   Slides](./WSC2017_CoC.pdf)
+* [Talk Slides](./slides/
