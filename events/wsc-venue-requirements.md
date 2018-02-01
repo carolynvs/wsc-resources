@@ -1,29 +1,31 @@
 # Write/Speak/Code Event Venue Needs
 
-## We are looking for a 2017 Conference venue!
-We are currently looking for a venue for our **4 day [2017 conference](#conference)** in **West Coast USA** in **June/early summer 2017**.  Email [info@writespeakcode.com](mailto:info@writespeakcode.com) if you have leads or intros!
+## We are looking for a 2018 Conference venue!
+We are currently looking for a venue for our **4 day [2018 conference](#conference)** in the **New York** area in **August/late summer 2018**.  Email [info@writespeakcode.com](mailto:info@writespeakcode.com) if you have leads or intros!
 
 ## About Write/Speak/Code 
 
 - [our website](http://writespeakcode.com)
-- Info about previous conferences: [2016](http://2016.writespeakcode.com), [2015](http://2015.writespeakcode.com), [2013](http://writespeakcode.com/2013)
+- Info about previous conferences: [2017](http://2017.writespeakcode.com),[2016](http://2016.writespeakcode.com), [2015](http://2015.writespeakcode.com), [2013](http://writespeakcode.com/2013)
 
-*Write/Speak/Code is increasing the visibility and leadership of women coders, engineers, software developers, designers, and data scientists across the world.  We offer conference and events as well as local meetups in New York, Chicago, and San Franscisco.*
+*Write/Speak/Code is increasing the visibility and leadership of women and non-binary coders through thought leadership, conference speaking, open source contributions, career development and personal growth.  We offer conference and events as well as local meetups in New York, Chicago, and San Franscisco.*
 
-*Our annual conference is focused on tangible skills and community support.  Attendees will write a blog post, give a talk, and contribute to open source.*
+*Our annual conference is focused on tangible skills and community support.  Attendees of the Foundations track will write a blog post, give a talk, and contribute to open source. Attendees of the Explorations track will explore new code, leadership, and self-care skills in action oriented talks and workshops. 2017 workshops included creating a technical zine and building an outline to gove a workshop.*
 
-*In 2016, we added an Alumna track focused on Leadership and Self-Care with focused time and mentorship on a personal project.*
+*In 2016, we added an Alumna track focused on Leadership and Self-Care with focused time and mentorship on a personal project. This has been transformed into the Explorations track.
 
 *In 2016, we introduced a 4th day: Self-Care &amp; Career Day, focused on topics such as: balancing career and motherhood, salary negotiation, posture and physical health, and emotional labor.*
 
-Write/Speak/Code is a non-profit organization registered in the state of IL.  We are in the process of getting 501c3 status.
+Write/Speak/Code is a 501c3 non-profit organization registered in the state of IL.  We are deeply committment to inclusion. We offer childcare and accessibility services at all our half-day+ events and are committed to having at least 50% people of color and 25% LGBTQIA speakers.
 
 ### Conference
 
 - 150-200 people, including attendees, organizers, volunteers, speakers, and mentors
 - 4 days, preferably Wed, Thurs, Fri, & Sat (3/4pm end on Sat)
-- Day 1: need most flexibility to move around (get into groups) within the same room
-- Day 2: need [break out rooms](#breakout-out-rooms) 
+- Main room all 4 days
+- Second track room first 3 days
+- Day 1: Main room needs most flexibility to move around (get into groups) within the same room
+- Day 2: Need additional [break out rooms](#breakout-out-rooms) 
 - Day 3: wifi and outlets most important
 - Day 4: brunch/luncheon with talks
 - Cost: low or no cost
