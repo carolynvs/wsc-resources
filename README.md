@@ -1,6 +1,6 @@
 # Write/Speak/Code Resources
 
-![Write/Speak/Code](../wsc-logo-fullcolor.jpg)
+![Write/Speak/Code](wsc-logo-fullcolor.jpg)
 
 ## Write/Speak/Code Events
 
