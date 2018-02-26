@@ -2,6 +2,31 @@
 
 ![Write/Speak/Code](wsc-logo-fullcolor.jpg)
 
+## Welcome!
+
+* [WSC Community Slack](http://wsccommunity.slack.com/)
+* [Conference](#go-to-the-conference)
+* [Get your company to sponsor](#get-your-company-to-sponsor-write-speak-code)
+* [Donate!](#donate-directly-to-write-speak-code)
+* [Events](#write-speak-code-events)
+* [Resources](#writing-speaking-coding-resources)
+
+
+## Go to the Conference!
+
+Details coming soon at [writespeakcode.com](http://www.writespeakcode.com/)
+
+## Get your company to sponsor Write/Speak/Code!
+
+Check out [our 2018 prospectus](WSC-SponsorshipProspectus-2018.pdf).
+
+## Donate directly to Write/Speak/Code
+
+Want to support our work, but don't know how to get involved? We take direct donations via ...
+
+* [@writespeakcode on Venmo](https://venmo.com/writespeakcode)
+* [Patreon account](https://www.patreon.com/writespeakcode)
+
 ## Write/Speak/Code Events
 
 ### 2018
