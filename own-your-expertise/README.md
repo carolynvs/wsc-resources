@@ -16,7 +16,7 @@
 
 ### Go to the Conference!
 
-Details coming soon at [writespeakcode.com](http://www.writespeakcode.com/)
+Aug 1-4, 2018 | NYC  [writespeakcode.com/2018/](http://www.writespeakcode.com/2018/)
 
 ### Get your company to sponsor Write/Speak/Code!
 
@@ -33,6 +33,7 @@ Want to support our work, but don't know how to get involved? We take direct don
 
 #### 2018
 * [Own Your Expertise 2018 - SF - PDF](./2018/oye-18-sf.pdf)
+* [Own Your Expertise 2018 - LA - PDF](./2018/oye-18-la.pdf)
 
 #### 2017
 * [Own Your Expertise 2017 - SF - PDF](./2017/oye-sf-17.pdf)
